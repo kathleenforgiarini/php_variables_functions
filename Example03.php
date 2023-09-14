@@ -5,7 +5,7 @@
  Authors: Kathleen Forgiarini
  Date of creation: Sept 14, 2023
  Dates of update:
- This code shows you how to create functions with parameters by value and by reference
+ This code shows you how to create functions with parameters by value
  
  */
 
